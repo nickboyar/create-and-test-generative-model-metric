@@ -1,0 +1,9 @@
+torch
+numpy
+Pillow
+tqdm
+transformers
+accelerate
+absl-py
+streamlit
+timm
